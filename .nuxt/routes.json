@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "/home/jpr/movieNuxt/pages/movies/_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_b1f129e2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/jpr/movieNuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_156f156e"
+  }
+]
